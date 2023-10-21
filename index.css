@@ -1,0 +1,40 @@
+html {
+    background-color: rgb(0, 0, 0);
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    
+}
+
+
+
+
+H1 { 
+    text-shadow: 5px 5px 5px #f35ab8;
+    font-size: 60px; 
+    
+    text-align: center;
+    color:white
+    
+    
+    text-shadow: 5px 5px 5px;
+    color:rgb(5, 5, 5)
+}
+
+h2 {
+    font-size: 40px;
+    text-shadow: 5px 5px 5px #f35ab8;
+    color:white
+    
+}
+
+p {
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+
+}
