@@ -1,17 +1,21 @@
 html {
-    background-color: rgb(51, 49, 49);
+    background-color: rgb(153, 147, 147);
      }
 
 
 img {
-    width: 100px;
-    height: 200px;
+    width: 1550;
+    height: 150px;
+    top: 500;
 
     
 }
     H1 { 
-        text-shadow: 5px 5px 5px #f35ab8;
-        font-size: 60px; 
+
+        position: absolute  ;
+        top: 20%;
+        text-shadow: 5px 5px 5px #f10707af;
+        font-size: 100px; 
     
         text-align: center;
         color:rgb(17, 17, 17)
@@ -23,17 +27,18 @@ img {
 
     h2 {
         font-size: 40px;
-        text-shadow: 5px 5px 5px #f35ab8;
-        color:rgb(11, 11, 11)
+        text-shadow: 20px 20px 20px #ffffffaf;
+        color:rgb(247, 190, 3)
     
                                                }
 
     p  {
+        ;
         color: rgb(255, 255, 255);
         font-size: 20px;
         letter-spacing: 1px;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        text-shadow:60PX 0PX 09PX #0d0c0c;
+        text-shadow:0PX 2PX 5PX #0d0c0c;
                                                                                 }
                                                                               
  
@@ -41,12 +46,14 @@ img {
 .contenedor {
     position: 20xp; 
     width: 300px; 
+    margin top: 50;
 }
 
 
 .contenedor img {
     width: 1880;
     height: 100;
+
 }
 
 
@@ -76,11 +83,13 @@ img {
 ul {
     list-style-type: none;
     padding: 10;
+    position: absolute;
+    top: 0%;
   }
   
   li {
     display: inline; 
-    margin-right: 383px; 
+    margin-right:300px; 
   }
   
   a {
@@ -97,4 +106,15 @@ ul {
   }
 
 
+.olak{
+    position: absolute;
+    top: 10%;
+    height: 396;
+    width: 1660;
+    
+}
+
+.cristian{
+    height: 950;
+    width: 1600;
 }
